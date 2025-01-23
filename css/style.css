@@ -1,0 +1,39 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: #040404;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #040404;
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #040404;
+}
+
+p {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #060606;
+}
+
+li {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+body {
+    background-color: beige;
+}
+
+img {
+    border: 1px solid #222
+}
